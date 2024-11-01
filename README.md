@@ -1,5 +1,9 @@
 <img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
-<h1 align="center">Hi 👋, I'm Harsha Nimeda</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsha Nimeda</h1>
+<br>
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+</p>
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsha2531&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2531" /> </p>
 <br>
