@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsha2531&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2531" /> </p>
 <br>
-<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 600px></picture>
+<picture> <img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 500px></picture>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha2531" alt="harsha2531" /></a> </p>
 
