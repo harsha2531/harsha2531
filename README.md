@@ -1,3 +1,4 @@
+<img src="https://github.com/sourabmaity/sourabmaity/blob/main/header_.png" >
 <h1 align="center">Hi 👋, I'm Harsha Nimeda</h1>
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsha2531&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2531" /> </p>
@@ -20,8 +21,12 @@
 
 - ⚡ Fun fact **🎓 Did you know? Coding is like magic – both involve strange symbols, and both make things come to life! But in my case, it’s usually after I fix about a hundred bugs 🐛**
 <br>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harsha2531" alt="harsha2531" /></a> </p>
 
+<img
+		align="center"
+		src="https://github-profile-trophy.vercel.app/?username=harsha2531&theme=onedark"
+	/>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsha-nimeda-267b63318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-nimeda-267b63318" height="30" width="40" /></a>
@@ -34,8 +39,17 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/harshanimeda99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshanimeda99" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harsha2531&show_icons=true&locale=en&layout=compact" alt="harsha2531" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harsha2531&show_icons=true&locale=en" alt="harsha2531" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha2531&" alt="harsha2531" /></p>
+</p>
+<h3 align="left">My Stats:</h3>
+<p align="center">
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2531&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
+	/>
+	<img
+		align="center"
+		src="https://github-readme-stats.vercel.app/api?username=harsha2531&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
+	/>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha2531&theme=dracula">
+	
+</p>
