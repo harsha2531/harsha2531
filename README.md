@@ -44,17 +44,14 @@
 <p><a href="https://www.buymeacoffee.com/harshanimeda99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshanimeda99" /></a></p><br><br>
 
 </p>
-<h3 align="left">My Stats:</h3>
-<p align="center">
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2531&&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite"
-	/>
-	<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=harsha2531&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"
-	/>	
-</p>
-<p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harsha2531&theme=dracula"/>
-</p>
+
+<h3 align="left">Github Activity:</h3>
+<div align="center">
+<img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsha2531&theme=react" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2531&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" />
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harsha2531&theme=react" />
+<br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsha2531&theme=react&utcOffset=8" />
+<br> 
+</div>
