@@ -31,13 +31,13 @@
 		src="https://github-profile-trophy.vercel.app/?username=harsha2531&theme=onedark"
 	/>
  
-<h3 align="left">Connect with me:</h3>
+## 📩 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/harsha-nimeda-267b63318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-nimeda-267b63318" height="30" width="40" /></a>
 <a href="https://fb.com/harshanimeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshanimeda" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools :
 <div align="center">
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
@@ -60,12 +60,12 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
 </div>
 
-<h3 align="left">Support:</h3>
+## 🌎 Support :
 <p><a href="https://www.buymeacoffee.com/harshanimeda99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshanimeda99" /></a></p><br><br>
 
 </p>
 
-<h3 align="left">Github Activity:</h3>
+## 📈 Github Activity :
 <div align="center">
 <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harsha2531&theme=react" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsha2531&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true" />
@@ -75,6 +75,10 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsha2531&theme=react&utcOffset=8" />
 <br> 
 </div>
+
+## ✍️ Random Dev Quote :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h5 align="center">
 𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 To 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎..! 🤝💛
 𝙷𝚊𝚟𝚎 A W𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 D𝚊𝚢..!😉✌ 
