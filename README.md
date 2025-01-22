@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Harsha Nimeda</h1>
 <br>
 <p align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" >
 </p>
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsha2531&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2531" /> </p>
@@ -79,8 +79,7 @@
 ## ✍️ Random Dev Quote :
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h5 align="center">
-𝚃𝚑𝚊𝚗𝚔 𝚈𝚘𝚞 𝙵𝚘𝚛 𝚈𝚘𝚞𝚛 𝙲𝚘𝚖𝚒𝚗𝚐 To 𝙼𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝙿𝚛𝚘𝚏𝚒𝚕𝚎..! 🤝💛
-𝙷𝚊𝚟𝚎 A W𝚘𝚗𝚍𝚎𝚛𝚏𝚞𝚕 D𝚊𝚢..!😉✌ 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+coming❤;Have+A+Wonderful+Day😉💖;&color=2FA4FF" />
+</h1>
 
-</h5>
