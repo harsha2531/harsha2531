@@ -80,6 +80,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+coming❤;Have+A+Wonderful+Day😉💖;&color=2FA4FF" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+coming😇;You+can+follow+me😉💖;Have+A+Wonderful+Day🤗✌;&color=2FA4FF" />
 </h1>
 
