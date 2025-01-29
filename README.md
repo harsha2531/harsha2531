@@ -76,7 +76,7 @@
 <br> 
 </div>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=harsha2531&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## ✍️ Random Dev Quote :
