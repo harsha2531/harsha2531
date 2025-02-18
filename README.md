@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on [POS-System](https://github.com/harsha2531/POS-System.git)
 
-- 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning JavaScript,CSS**
+- 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning Java EE, Spring, Springboot**
 
 - 👨‍💻 All of my projects are available at [harshanimeda.com](harshanimeda.com)
 
-- 💬 Ask me about **Java, MySql, OOP and ORM Concepts**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **harshanimeda@gmail.com**
 
