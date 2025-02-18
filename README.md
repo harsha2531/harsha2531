@@ -35,6 +35,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harsha-nimeda-267b63318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-nimeda-267b63318" height="30" width="40" /></a>
 <a href="https://fb.com/harshanimeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshanimeda" height="30" width="40" /></a>
+<a href="https://fb.com/harshanimeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="harshanimeda" height="30" width="40" /></a>
 </p>
 
 ## 🛠 Languages and Tools :
