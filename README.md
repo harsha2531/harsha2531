@@ -13,7 +13,7 @@
 <br>
 
 
-- 🔭 I’m currently working on [POS-System](https://github.com/harsha2531/POS-System.git)
+- 🔭 I’m currently working on [Springboot POS System](https://github.com/harsha2531/spring.git)
 
 - 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning Java EE, Spring, Springboot**
 
