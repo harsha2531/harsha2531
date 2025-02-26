@@ -87,3 +87,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you+for+coming😇;You+can+follow+me😉💖;Have+A+Wonderful+Day🤗✌;&color=2FA4FF" />
 </h1>
 
+<!-- Footer -->
+<div align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+</div>
+
