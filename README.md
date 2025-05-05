@@ -41,6 +41,7 @@
 ## 🛠 Languages and Tools :
 <div align="center">
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
