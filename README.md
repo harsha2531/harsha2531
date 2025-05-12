@@ -69,6 +69,8 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vercel"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=powershell"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>	
 </div>
 
 ## 🌎 Support :
