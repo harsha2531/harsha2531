@@ -48,8 +48,10 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
 <code><img height="40" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=jquery"></code>  	
 <code><img height="40" src="https://skillicons.dev/icons?i=git"></code>	
 <br>  
