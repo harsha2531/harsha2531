@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [CeylonTravel](https://github.com/harsha2531/CeylonTravel.git)
 
-- 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning Springboot and Spring Security**
+- 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning TypeScript and React**
 
 - 👨‍💻 All of my projects are available at [harshanimeda.com](harshanimeda.com)
 
