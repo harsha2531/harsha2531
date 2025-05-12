@@ -46,9 +46,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
 <code><img height="40" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>	
@@ -72,8 +70,6 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vercel"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=powershell"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>	
 </div>
 
 ## 🌎 Support :
