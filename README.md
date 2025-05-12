@@ -66,7 +66,8 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=webstorm"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=vercel"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=powershell"></code>
 </div>
 
