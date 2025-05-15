@@ -40,11 +40,12 @@
 
 ## 🛠 Languages and Tools :
 <div align="center">
+<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=python"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>	
-<code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
