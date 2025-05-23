@@ -42,19 +42,22 @@
 ## 🛠 Languages and Tools :
 <div align="center">
 <code><img height="40" src="https://skillicons.dev/icons?i=java"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=python"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=python"></code>
+<br>
+<br>	
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=vite"></code>	
-<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>	
-<code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
 <code><img height="40" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=jquery"></code>  	
-<code><img height="40" src="https://skillicons.dev/icons?i=git"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=vite"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>	
+<br>
+<br>
+<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
 <br>  
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
@@ -63,9 +66,11 @@
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=git"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=idea"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=webstorm"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>		
+<code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=maven"></code>			
 <code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>
