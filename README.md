@@ -59,13 +59,13 @@
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>	
 <br>  
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=github"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=idea"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=webstorm"></code>	
+<code><img height="40" src="https://skillicons.dev/icons?i=webstorm"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=docker"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>
