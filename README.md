@@ -74,12 +74,9 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=maven"></code>			
 <code><img height="40" src="https://skillicons.dev/icons?i=vscode"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=linux"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=mint"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=windows"></code>		
 <code><img height="40" src="https://skillicons.dev/icons?i=postman"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vercel"></code>		
-<code><img height="40" src="https://skillicons.dev/icons?i=powershell"></code>
 </div>
 
 ## 🌎 Support :
