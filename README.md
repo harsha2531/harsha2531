@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning TypeScript and React**
 
-- 👨‍💻 All of my projects are available at [harshanimeda.com](harshanimeda.com)
+- 👨‍💻 All of my projects are available at [Tap here](https://github.com/harsha2531?tab=repositories)
 
 - 💬 Ask me about **Java**
 
