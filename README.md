@@ -56,13 +56,15 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=bootstrap"></code>	
 <br>
 <br>
-<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>	
 <code><img height="40" src="https://skillicons.dev/icons?i=spring"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=expressjs"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nodejs"></code>
 <br>  
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
 <br>  
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=figma"></code>
