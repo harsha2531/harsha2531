@@ -13,13 +13,13 @@
 <br>
 
 
-- 🔭 I’m currently working on [CeylonTravel](https://github.com/harsha2531/CeylonTravel.git)
+- 🔭 I’m currently working on [MoodMate-Mobile App](https://github.com/harsha2531/MoodMate-App.git)
 
-- 🌱 I’m currently learning **Graduate Diploma in Software Engineering, Now I'm learning TypeScript and React**
+- 🌱 I’m currently learning **Higher Diploma in Software Engineering, Now I'm learning TypeScript,Reactjs,React-Native**
 
 - 👨‍💻 All of my projects are available at [Tap here](https://github.com/harsha2531?tab=repositories)
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Software Engineering**
 
 - 📫 How to reach me **harshanimeda@gmail.com**
 
