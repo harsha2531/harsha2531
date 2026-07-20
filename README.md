@@ -4,7 +4,7 @@
 <p align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30" >
 </p>
-<h3 align="center">A passionate Software Engineering Student from Sri Lanka</h3>
+<h3 align="center">A passionate Software Engineering Intern from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harsha2531&label=Profile%20views&color=0e75b6&style=flat" alt="harsha2531" /> </p>
 <br>
 <div align="center">
