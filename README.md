@@ -64,6 +64,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=supabase"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
 <br>  
 <br>  
