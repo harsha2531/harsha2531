@@ -13,13 +13,13 @@
 <br>
 
 
-- 🔭 I’m currently working on [MoodMate-Mobile App](https://github.com/harsha2531/MoodMate-App.git)
+- 🔭 I’m currently working on AI Automation Workflow Systems
 
-- 🌱 I’m currently learning **Higher Diploma in Software Engineering, Now I'm learning TypeScript,Reactjs,React-Native**
+- 🌱 I’m currently learning **n8n + Web Development**
 
 - 👨‍💻 All of my projects are available at [Tap here](https://github.com/harsha2531?tab=repositories)
 
-- 💬 Ask me about **Software Engineering**
+- 💬 Ask me about **Software Engineering and AI**
 
 - 📫 How to reach me **harshanimeda@gmail.com**
 
