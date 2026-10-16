@@ -29,8 +29,8 @@
 ## 🏆 Trophies :
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=harsha2531&theme=onestar" alt="pazindushanez" /></a> </p>
+<br>
 
- 
 ## 📩 Connect with me :
 <p align="left">
 <a href="https://linkedin.com/in/harsha-nimeda-267b63318" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha-nimeda-267b63318" height="30" width="40" /></a>
@@ -38,6 +38,7 @@
 <!-- <a href="https://fb.com/harshanimeda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="harshanimeda" height="30" width="40" /></a> -->
 <!-- <a href="https://www.youtube.com/@harshanimeda3683" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="harshanimeda" height="35" width="45" /></a>	
 </p> -->
+<br>
 
 ## 🛠 Languages and Tools :
 <div align="center">
@@ -82,11 +83,12 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=stackoverflow"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=vercel"></code>		
 </div>
+<br>
 
 ## 🌎 Support :
 <p><a href="https://www.buymeacoffee.com/harshanimeda99"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshanimeda99" /></a></p><br><br>
-
 </p>
+<br>
 
 ## 📈 Github Activity :
 <div align="center">
@@ -98,6 +100,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harsha2531&theme=react&utcOffset=8" />
 <br> 
 </div>
+<br>
 
 ### 🔝 Top Contributed Repo :
 ![](https://github-contributor-stats.vercel.app/api?username=harsha2531&limit=5&theme=dark&combine_all_yearly_contributions=true)
