@@ -26,10 +26,10 @@
 - ⚡ Fun fact **🎓 Did you know? Coding is like magic – both involve strange symbols, and both make things come to life! But in my case, it’s usually after I fix about a hundred bugs 🐛**
 <br>
 
-<img
-		align="center"
-		src="https://github-profile-trophy.vercel.app/?username=harsha2531&theme=onedark"
-	/>
+## 🏆 Trophies :
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=harsha2531&theme=onestar" alt="pazindushanez" /></a> </p>
+
  
 ## 📩 Connect with me :
 <p align="left">
@@ -48,6 +48,7 @@
 <code><img height="40" src="https://skillicons.dev/icons?i=js"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=typescript"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=nextjs"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=html"></code>  
 <code><img height="40" src="https://skillicons.dev/icons?i=css"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=tailwindcss"></code>	
@@ -63,7 +64,7 @@
 <br>  
 <code><img height="40" src="https://skillicons.dev/icons?i=hibernate"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mysql"></code>
-<code><img height="40" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="40" src="https://skillicons.dev/icons?i=postgres"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=supabase"></code>
 <code><img height="40" src="https://skillicons.dev/icons?i=mongodb"></code>
 <br>  
