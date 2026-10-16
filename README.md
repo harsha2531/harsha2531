@@ -9,6 +9,7 @@
 <br>
 <div align="center">
 <picture> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFiamY2bjB0bHhvYTk0ZjBmeWE4cTNqMXE2cGE0Mmlya3I2Y3ozaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width = 600></picture>
+<br>
 </div>
 <br>
 
